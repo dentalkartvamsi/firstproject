@@ -1,6 +1,6 @@
 import datetime
 
-print("Hello cron is succesfully updatingsjhcvdshdiscbjisdbcosdjcnsojcbn sk")
+print("hello utkarsh")
 
 current_time = datetime.datetime.now()
 
